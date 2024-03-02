@@ -20,13 +20,13 @@ const Hero = () =>{
             </div>
 
             <div className="brand-icons">
-              <img src="/images/flipkart.png" alt="flipkart-img" />
-              <img src="/images/amazon.png" alt="amazon-img" />
+              <img src="./images/flipkart.png" alt="flipkart-img" />
+              <img src="./images/amazon.png" alt="amazon-img" />
             </div>
           </div>
 
           <div className="hero-image">
-            <img src="/images/shoe_image.png" alt="hero-image" />
+            <img src="./images/shoe_image.png" alt="hero-image" />
           </div>
         </main>
       </div>
